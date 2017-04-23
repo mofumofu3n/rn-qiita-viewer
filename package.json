@@ -1,5 +1,5 @@
 {
-  "name": "qiita-viewer",
+  "name": "rn-qiita-viewer",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
